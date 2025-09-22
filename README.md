@@ -1,25 +1,28 @@
-# CypherX Bot 🤖
+# Cypherx-bot
+Cypherx bot project
+# CypherX-Bot
 
-CypherX ni bot rahisi ya kuseti na kutumia kwenye majukwaa kama **Discord / Telegram** (kutegemea setup yako).  
-Imeandaliwa kwa ajili ya automation, moderation na features nyingine za kijanja.
-
----
-
-## 🚀 Deployment
-
-### Deploy kwa Railway (One-Click)
-
-Bonyeza button hii hapa chini ku-deploy moja kwa moja kwenye [Railway](https://railway.app):
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/twahamanet-cmyk/Cypherx-bot)
+**CypherX-Bot** is an intelligent automation bot designed to simplify daily tasks and enhance productivity. Lightweight and modular, it is ideal for developers and enthusiasts who want to integrate automation into their workflow.
 
 ---
 
-## ⚙️ Setup ya Local (Developer Mode)
+## Features
+- Automatic responses to messages
+- Task scheduling and reminders
+- Secure handling of sensitive data using `.env` configuration
+- Easy deployment on Heroku or Railway
+- Modular design for easy customization
 
-Kama unataka kuendesha bot hii kwenye PC yako kabla ya kuipeleka cloud:
+---
 
-1. **Clone repo hii**
+## Tech Stack
+- Python 3.x
+- Relevant Python libraries (see `requirements.txt`)
+- Compatible with Heroku and Railway deployments
+
+---
+
+## Getting Started
+1. Clone the repository:
    ```bash
-   git clone https://github.com/twahamanet-cmyk/Cypherx-bot.git
-   cd Cypherx-bot
+   git clone https://github.com/username/cyphcyphCypherX-BotX-BotX-Bo
